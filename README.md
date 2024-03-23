@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on different IoT and software engineering projects
+- 👯 I’m looking to collaborate on fun programming projects
 <!--
 **NeverFinished/NeverFinished** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
